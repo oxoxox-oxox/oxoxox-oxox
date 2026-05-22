@@ -1,0 +1,19 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='520' height='190'>
+<defs>
+<style>
+.title{font:600 18px 'Segoe UI', Arial, sans-serif;fill:#1f2a44}
+.label{font:500 14px 'Segoe UI', Arial, sans-serif;fill:#334155}
+.value{font:600 14px 'Segoe UI', Arial, sans-serif;fill:#0f172a}
+</style>
+</defs>
+<rect x='0' y='0' width='520' height='190' rx='14' fill='#f7f9fc' stroke='#d8dee9'/>
+<text x='22' y='40' class='title'>oxoxox-oxox - Stats</text>
+<text x='22' y='62' class='label'>Total Stars</text>
+<text x='498' y='62' text-anchor='end' class='value'>14</text>
+<text x='22' y='90' class='label'>Public Repos</text>
+<text x='498' y='90' text-anchor='end' class='value'>35</text>
+<text x='22' y='118' class='label'>Followers</text>
+<text x='498' y='118' text-anchor='end' class='value'>2</text>
+<text x='22' y='146' class='label'>Following</text>
+<text x='498' y='146' text-anchor='end' class='value'>11</text>
+</svg>

@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxoxox-oxox&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img src="assets/readme-stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxoxox-oxox&layout=compact" />
+  <img src="assets/readme-langs.svg" />
 </p>
 
 <p align="center">
