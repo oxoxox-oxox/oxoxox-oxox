@@ -7,7 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=I'm%20oxoxox-oxox;Try%20To%20Be%20A%20Full%20Stack%20Developer;Open%20Source%20Lover&font=Roboto&color=58A6FF&size=25" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oxoxox-oxox&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxoxox-oxox&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oxoxox-oxox&repo=oxoxox-oxox" />
 </p>
 
 <p align="center">
