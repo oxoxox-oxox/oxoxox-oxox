@@ -10,24 +10,24 @@
 <text x='22' y='40' class='title'>Top Languages</text>
 <text x='22' y='62' class='label'>Python</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='50' width='92' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>35.5%</text>
+<rect x='172' y='50' width='93' height='10' rx='5' fill='#ef4444'/>
+<text x='440' y='59' class='percent'>36.1%</text>
 <text x='22' y='88' class='label'>ASP.NET</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='76' width='67' height='10' rx='5' fill='#f59e0b'/>
-<text x='440' y='85' class='percent'>26.0%</text>
+<rect x='172' y='76' width='66' height='10' rx='5' fill='#f59e0b'/>
+<text x='440' y='85' class='percent'>25.7%</text>
 <text x='22' y='114' class='label'>HTML</text>
 <rect x='172' y='102' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='102' width='49' height='10' rx='5' fill='#10b981'/>
-<text x='440' y='111' class='percent'>19.1%</text>
+<text x='440' y='111' class='percent'>18.9%</text>
 <text x='22' y='140' class='label'>JavaScript</text>
 <rect x='172' y='128' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='128' width='22' height='10' rx='5' fill='#3b82f6'/>
-<text x='440' y='137' class='percent'>8.8%</text>
+<text x='440' y='137' class='percent'>8.7%</text>
 <text x='22' y='166' class='label'>Vue</text>
 <rect x='172' y='154' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='154' width='15' height='10' rx='5' fill='#8b5cf6'/>
-<text x='440' y='163' class='percent'>6.1%</text>
+<text x='440' y='163' class='percent'>6.0%</text>
 <text x='22' y='192' class='label'>CSS</text>
 <rect x='172' y='180' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='180' width='11' height='10' rx='5' fill='#ec4899'/>
