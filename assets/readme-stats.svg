@@ -11,7 +11,7 @@
 <text x='22' y='62' class='label'>Total Stars</text>
 <text x='498' y='62' text-anchor='end' class='value'>16</text>
 <text x='22' y='90' class='label'>Public Repos</text>
-<text x='498' y='90' text-anchor='end' class='value'>40</text>
+<text x='498' y='90' text-anchor='end' class='value'>41</text>
 <text x='22' y='118' class='label'>Followers</text>
 <text x='498' y='118' text-anchor='end' class='value'>2</text>
 <text x='22' y='146' class='label'>Following</text>
