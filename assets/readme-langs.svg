@@ -10,26 +10,26 @@
 <text x='22' y='40' class='title'>Top Languages</text>
 <text x='22' y='62' class='label'>Python</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='50' width='125' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>48.1%</text>
+<rect x='172' y='50' width='129' height='10' rx='5' fill='#ef4444'/>
+<text x='440' y='59' class='percent'>49.7%</text>
 <text x='22' y='88' class='label'>ASP.NET</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='76' width='54' height='10' rx='5' fill='#f59e0b'/>
-<text x='440' y='85' class='percent'>20.9%</text>
+<rect x='172' y='76' width='52' height='10' rx='5' fill='#f59e0b'/>
+<text x='440' y='85' class='percent'>20.3%</text>
 <text x='22' y='114' class='label'>HTML</text>
 <rect x='172' y='102' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='102' width='39' height='10' rx='5' fill='#10b981'/>
-<text x='440' y='111' class='percent'>15.3%</text>
+<rect x='172' y='102' width='38' height='10' rx='5' fill='#10b981'/>
+<text x='440' y='111' class='percent'>14.9%</text>
 <text x='22' y='140' class='label'>JavaScript</text>
 <rect x='172' y='128' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='128' width='18' height='10' rx='5' fill='#3b82f6'/>
-<text x='440' y='137' class='percent'>7.1%</text>
+<rect x='172' y='128' width='17' height='10' rx='5' fill='#3b82f6'/>
+<text x='440' y='137' class='percent'>6.9%</text>
 <text x='22' y='166' class='label'>Vue</text>
 <rect x='172' y='154' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='154' width='12' height='10' rx='5' fill='#8b5cf6'/>
-<text x='440' y='163' class='percent'>4.9%</text>
+<text x='440' y='163' class='percent'>4.7%</text>
 <text x='22' y='192' class='label'>CSS</text>
 <rect x='172' y='180' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='180' width='9' height='10' rx='5' fill='#ec4899'/>
-<text x='440' y='189' class='percent'>3.7%</text>
+<text x='440' y='189' class='percent'>3.6%</text>
 </svg>
