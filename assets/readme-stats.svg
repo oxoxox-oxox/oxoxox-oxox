@@ -9,9 +9,9 @@
 <rect x='0' y='0' width='520' height='190' rx='14' fill='#f7f9fc' stroke='#d8dee9'/>
 <text x='22' y='40' class='title'>oxoxox-oxox - Stats</text>
 <text x='22' y='62' class='label'>Total Stars</text>
-<text x='498' y='62' text-anchor='end' class='value'>16</text>
+<text x='498' y='62' text-anchor='end' class='value'>17</text>
 <text x='22' y='90' class='label'>Public Repos</text>
-<text x='498' y='90' text-anchor='end' class='value'>42</text>
+<text x='498' y='90' text-anchor='end' class='value'>44</text>
 <text x='22' y='118' class='label'>Followers</text>
 <text x='498' y='118' text-anchor='end' class='value'>2</text>
 <text x='22' y='146' class='label'>Following</text>
