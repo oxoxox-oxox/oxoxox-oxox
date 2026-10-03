@@ -10,26 +10,26 @@
 <text x='22' y='40' class='title'>Top Languages</text>
 <text x='22' y='62' class='label'>Python</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='50' width='166' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>63.9%</text>
+<rect x='172' y='50' width='163' height='10' rx='5' fill='#ef4444'/>
+<text x='440' y='59' class='percent'>62.9%</text>
 <text x='22' y='88' class='label'>ASP.NET</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='76' width='34' height='10' rx='5' fill='#f59e0b'/>
-<text x='440' y='85' class='percent'>13.1%</text>
+<rect x='172' y='76' width='33' height='10' rx='5' fill='#f59e0b'/>
+<text x='440' y='85' class='percent'>12.9%</text>
 <text x='22' y='114' class='label'>HTML</text>
 <rect x='172' y='102' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='102' width='27' height='10' rx='5' fill='#10b981'/>
-<text x='440' y='111' class='percent'>10.4%</text>
-<text x='22' y='140' class='label'>C++</text>
+<rect x='172' y='102' width='24' height='10' rx='5' fill='#10b981'/>
+<text x='440' y='111' class='percent'>9.5%</text>
+<text x='22' y='140' class='label'>JavaScript</text>
 <rect x='172' y='128' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='128' width='11' height='10' rx='5' fill='#3b82f6'/>
-<text x='440' y='137' class='percent'>4.5%</text>
-<text x='22' y='166' class='label'>JavaScript</text>
+<rect x='172' y='128' width='16' height='10' rx='5' fill='#3b82f6'/>
+<text x='440' y='137' class='percent'>6.4%</text>
+<text x='22' y='166' class='label'>C++</text>
 <rect x='172' y='154' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='154' width='11' height='10' rx='5' fill='#8b5cf6'/>
-<text x='440' y='163' class='percent'>4.5%</text>
-<text x='22' y='192' class='label'>TeX</text>
+<text x='440' y='163' class='percent'>4.4%</text>
+<text x='22' y='192' class='label'>CSS</text>
 <rect x='172' y='180' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='180' width='9' height='10' rx='5' fill='#ec4899'/>
-<text x='440' y='189' class='percent'>3.5%</text>
+<text x='440' y='189' class='percent'>3.8%</text>
 </svg>
