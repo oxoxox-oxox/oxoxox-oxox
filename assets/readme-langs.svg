@@ -11,7 +11,7 @@
 <text x='22' y='62' class='label'>Python</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='50' width='163' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>62.9%</text>
+<text x='440' y='59' class='percent'>63.0%</text>
 <text x='22' y='88' class='label'>ASP.NET</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='76' width='33' height='10' rx='5' fill='#f59e0b'/>
