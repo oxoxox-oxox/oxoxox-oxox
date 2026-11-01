@@ -2,9 +2,9 @@
 
 ## Hi I'm oxoxox-oxox 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=HI%20THERE!&fontSize=80&fontAlignY=30&animation=twinkling" />
-</p>
+![GitHub 统计](https://github-stats-extended.vercel.app/api?username=oxoxox-oxox&show_icons=true)
+
+![GitHub 奖杯](https://github-profile-trophy.vercel.app/?username=oxoxox-oxox)
 
 <p align="center">
   <img src="assets/readme-stats.svg" />
