@@ -2,9 +2,10 @@
 
 ## Hi I'm oxoxox-oxox 👋
 
-![GitHub 统计](https://github-stats-extended.vercel.app/api?username=oxoxox-oxox&show_icons=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=oxoxox-oxox&show_icons=true" alt="GitHub 统计" />
+</p>
 
-![GitHub 奖杯](https://github-profile-trophy.vercel.app/?username=oxoxox-oxox)
 
 <p align="center">
   <img src="assets/readme-stats.svg" />
