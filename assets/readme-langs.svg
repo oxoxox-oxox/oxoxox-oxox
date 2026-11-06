@@ -8,28 +8,28 @@
 </defs>
 <rect x='0' y='0' width='520' height='240' rx='14' fill='#f7f9fc' stroke='#d8dee9'/>
 <text x='22' y='40' class='title'>Top Languages</text>
-<text x='22' y='62' class='label'>Python</text>
+<text x='22' y='62' class='label'>Rust</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='50' width='147' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>56.5%</text>
-<text x='22' y='88' class='label'>ASP.NET</text>
+<rect x='172' y='50' width='154' height='10' rx='5' fill='#ef4444'/>
+<text x='440' y='59' class='percent'>59.2%</text>
+<text x='22' y='88' class='label'>Python</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='76' width='29' height='10' rx='5' fill='#f59e0b'/>
-<text x='440' y='85' class='percent'>11.3%</text>
-<text x='22' y='114' class='label'>HTML</text>
+<rect x='172' y='76' width='57' height='10' rx='5' fill='#f59e0b'/>
+<text x='440' y='85' class='percent'>21.9%</text>
+<text x='22' y='114' class='label'>ASP.NET</text>
 <rect x='172' y='102' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='102' width='22' height='10' rx='5' fill='#10b981'/>
-<text x='440' y='111' class='percent'>8.3%</text>
-<text x='22' y='140' class='label'>JavaScript</text>
+<rect x='172' y='102' width='11' height='10' rx='5' fill='#10b981'/>
+<text x='440' y='111' class='percent'>4.3%</text>
+<text x='22' y='140' class='label'>HTML</text>
 <rect x='172' y='128' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='128' width='12' height='10' rx='5' fill='#3b82f6'/>
-<text x='440' y='137' class='percent'>4.5%</text>
-<text x='22' y='166' class='label'>C++</text>
+<rect x='172' y='128' width='9' height='10' rx='5' fill='#3b82f6'/>
+<text x='440' y='137' class='percent'>3.3%</text>
+<text x='22' y='166' class='label'>JavaScript</text>
 <rect x='172' y='154' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='154' width='10' height='10' rx='5' fill='#8b5cf6'/>
-<text x='440' y='163' class='percent'>3.9%</text>
+<rect x='172' y='154' width='7' height='10' rx='5' fill='#8b5cf6'/>
+<text x='440' y='163' class='percent'>2.6%</text>
 <text x='22' y='192' class='label'>CSS</text>
 <rect x='172' y='180' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='180' width='9' height='10' rx='5' fill='#ec4899'/>
-<text x='440' y='189' class='percent'>3.5%</text>
+<rect x='172' y='180' width='4' height='10' rx='5' fill='#ec4899'/>
+<text x='440' y='189' class='percent'>1.6%</text>
 </svg>
