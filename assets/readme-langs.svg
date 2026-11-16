@@ -10,12 +10,12 @@
 <text x='22' y='40' class='title'>Top Languages</text>
 <text x='22' y='62' class='label'>Rust</text>
 <rect x='172' y='50' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='50' width='145' height='10' rx='5' fill='#ef4444'/>
-<text x='440' y='59' class='percent'>55.7%</text>
+<rect x='172' y='50' width='144' height='10' rx='5' fill='#ef4444'/>
+<text x='440' y='59' class='percent'>55.5%</text>
 <text x='22' y='88' class='label'>Python</text>
 <rect x='172' y='76' width='260' height='10' rx='5' fill='#e5e7eb'/>
-<rect x='172' y='76' width='54' height='10' rx='5' fill='#f59e0b'/>
-<text x='440' y='85' class='percent'>20.8%</text>
+<rect x='172' y='76' width='55' height='10' rx='5' fill='#f59e0b'/>
+<text x='440' y='85' class='percent'>21.1%</text>
 <text x='22' y='114' class='label'>TypeScript</text>
 <rect x='172' y='102' width='260' height='10' rx='5' fill='#e5e7eb'/>
 <rect x='172' y='102' width='14' height='10' rx='5' fill='#10b981'/>
